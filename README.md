@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pierrejqs
 - 👀 I’m interested in crafting delightful apps
-- 🚀 I’m currently running @designtherapy, a studio creating customized, high-end digital experiences to facilitate, automate and improve our customers' business (banking, industry, education), 
+- 🚀 I’m currently running @design-therapy, a studio creating customized, high-end digital experiences to facilitate, automate and improve our customers' business (banking, industry, education), 
 - 📫 How to reach me : find me on LinkedIn or Twitter
 
 <!---
